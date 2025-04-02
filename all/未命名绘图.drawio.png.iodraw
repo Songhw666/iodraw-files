@@ -31,7 +31,7 @@
         <mxCell id="1izAB4ojK5FvYI0_XVd3-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;点云坐标变换&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="311" y="364" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1izAB4ojK5FvYI0_XVd3-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1izAB4ojK5FvYI0_XVd3-5" value="误差收敛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="316" y="453" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
