@@ -37,6 +37,9 @@
         <mxCell id="1izAB4ojK5FvYI0_XVd3-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;误差收敛&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304" y="432" width="146" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="1izAB4ojK5FvYI0_XVd3-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;点云坐标变换&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="374" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
